@@ -26,6 +26,8 @@ from object_detection.core import box_predictor
 from object_detection.utils import shape_utils
 from object_detection.utils import static_shape
 
+#slim = tf.keras.layers
+
 BOX_ENCODINGS = box_predictor.BOX_ENCODINGS
 CLASS_PREDICTIONS_WITH_BACKGROUND = (
     box_predictor.CLASS_PREDICTIONS_WITH_BACKGROUND)
