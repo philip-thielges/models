@@ -1,0 +1,6 @@
+[submodule "cocoapi"]
+	path = cocoapi
+	url = https://github.com/philip-thielges/cocoapi.git
+[submodule "research/cocoapi"]
+	path = research/cocoapi
+	url = https://github.com/philip-thielges/cocoapi.git
